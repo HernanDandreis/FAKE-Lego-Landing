@@ -1,12 +1,14 @@
 # 🧱 LEGO Landing Page
 
+## Aclaracion: la pagina no esta maquetada para que se vea "bien" en pantallas diferentes a las de tamaaño 1312x600 ##
+
 Una landing page moderna e interactiva inspirada en el universo LEGO. Este proyecto fue diseñado para practicar maquetación web, organización de estilos y buenas prácticas de desarrollo frontend, logrando una experiencia visual atractiva y responsiva.
 
 ---
 
 ## 🚀 Demo
 
-👉 ``
+👉 `https://hernandandreis.github.io/FAKE-Lego-Landing/`
 
 ---
 
